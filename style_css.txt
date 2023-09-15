@@ -1,0 +1,13 @@
+body {
+  color: #000000
+}
+
+
+.title{
+  padding: 5px;
+  background-color: rgb(198, 33, 184)000;
+  border-radius: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
